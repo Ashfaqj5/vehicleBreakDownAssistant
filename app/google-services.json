@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712559428301",
+    "project_id": "vbreakdown-70c72",
+    "storage_bucket": "vbreakdown-70c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712559428301:android:fe6784255cf91d85a15f84",
+        "android_client_info": {
+          "package_name": "com.example.vbreakdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712559428301-ira5a22gb3lsc393trbchublftr5r8jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7zlzwjDgfl184VGa9zrp9ZXmide1LgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712559428301-ira5a22gb3lsc393trbchublftr5r8jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
